@@ -12,6 +12,7 @@ function theBeatlesPlay(musicians, instruments){
 function iLoveTheBeatles(num) {
   var empty = []
   do empty.push("I love the Beatles!") {
-    while
+    while (var i=0; i < 15; i++)
   }
+  return num
 }
