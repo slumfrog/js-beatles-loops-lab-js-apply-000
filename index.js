@@ -14,6 +14,4 @@ function iLoveTheBeatles(num) {
   do {
     empty.push("I love the Beatles!") }
     while (var i=0; i < 15; i++)
-    
-  return empty
 }
