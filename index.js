@@ -13,3 +13,5 @@ function johnLennonFacts(facts) {
   console.log(facts.push + " !!!")
   }
 }
+
+cats.push('Willy');
