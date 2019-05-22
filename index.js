@@ -12,6 +12,6 @@ function johnLennonFacts(facts) {
   while(facts()) {
   console.log(facts.push(' !!!'))
   }
-  return facts
+  return johnLennonFacts
 }
 
