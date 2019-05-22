@@ -8,9 +8,10 @@ function theBeatlesPlay(musicians, instruments){
   return empty
 }
 
-function johnLennonFacts(facts) {
-  while(var i=0; i < facts.length; i++) {
-    console.log(facts + "")
+
+function iLoveTheBeatles(num) {
+  var empty = []
+  do empty.push("I love the Beatles!") {
+    while
   }
 }
-
